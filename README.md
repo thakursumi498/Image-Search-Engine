@@ -53,25 +53,42 @@ Use the download button to save an image to your device.
 Project Structure
 plaintext
 Copy code
+
 image-search-engine/
 ├── css/
+
 │   └── styles.css
+
 ├── js/
+
 │   └── script.js
+
 ├── images/
+
 │   └── (optional: placeholder images)
+
 ├── index.html
+
 └── README.md
+
 index.html: The main HTML file that structures the application.
+
 css/styles.css: The CSS file that styles the application.
+
 js/script.js: The JavaScript file that adds interactivity to the application.
+
 Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+
 Acknowledgements
+
 Unsplash API for providing free high-quality images.
+
 Font Awesome for icons.
 Feel free to customize this README template according to your specific project requirements.
